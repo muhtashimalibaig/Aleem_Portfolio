@@ -5,7 +5,6 @@ import { Link } from "react-router-dom";
 import Video from "../assets/PortfolioV.mp4";
 import { Facebook, Instagram, Play } from "lucide-react";
 import Modal from "./Modal";
-import facebookIcon from "../assets/Facebook.jpg";
 
 const Header: React.FC = () => {
   const [open, setOpened] = useState(false);
