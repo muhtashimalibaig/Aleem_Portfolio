@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import circle from "../assets/circle-star.svg";
-import "../stylesheets/Home.css";
 import view from "../assets/project.png";
 import { MoveRight } from "lucide-react";
 // import Navbar from "../Components/Navbar";
